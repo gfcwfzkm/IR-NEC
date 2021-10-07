@@ -1,2 +1,2 @@
 # IR-NEC
-Infrarot NEC Driver Library, Interrupt-based
+Infrared NEC Driver Library, Interrupt-based
